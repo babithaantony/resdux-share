@@ -1,1 +1,1 @@
-# resdux-share
+# Redux Share
